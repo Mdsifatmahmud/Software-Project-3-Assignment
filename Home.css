@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: #27ae60;
+    padding: 20px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+nav{
+    list-style: none;
+}
+nav ul{
+    display: inline-block;
+}
+
+
+
+blockquote{
+    font-size: 50px;
+}
+
+q{
+    font-size: 20px;
+}
+
+div{
+    background-color: tomato;
+    padding: 10px 20px;
+}
